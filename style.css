@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+.project {
+    margin: 20px;
+}
+
+form {
+    margin: 20px;
+}
+
+/* Add your own styles to customize the appearance of your portfolio. */
